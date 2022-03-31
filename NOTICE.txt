@@ -25,5 +25,6 @@ The following tools and components are required:
 	- SQL Editor 1.0.0
 	- Lombok 1.18.8
 
-Contributors:
+The contributors of this project are:
+
 - jdiego988 (juandiego.borrero688@alu.uhu.es)
